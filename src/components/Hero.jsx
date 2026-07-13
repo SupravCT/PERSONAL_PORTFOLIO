@@ -23,7 +23,7 @@ const Hero = () => {
           <a href="https://www.linkedin.com/in/suprav-chand-b96811319/" target="_blank" className="flex items-center gap-2 bg-blue-600 hover:bg-blue-500 px-6 py-3 rounded-lg transition-colors">
             <FaLinkedin /> LinkedIn
           </a>
-          <a href="/SUPRAV_RESUME.pdf" download className="flex items-center gap-2 border border-blue-400 text-blue-400 hover:bg-blue-400 hover:text-white px-6 py-3 rounded-lg transition-colors">
+          <a href="/Suprav_Resume.pdf" download className="flex items-center gap-2 border border-blue-400 text-blue-400 hover:bg-blue-400 hover:text-white px-6 py-3 rounded-lg transition-colors">
             Download CV
           </a>
         </div>
